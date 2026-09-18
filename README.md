@@ -1,12 +1,6 @@
 <h1 align="center">📊 Agregador de Dados para Declaração de Imposto de Renda</h1>
 
 <p align="center">
-  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"></a>
-  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-6A0DAD?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Licen%C3%A7a-Estudo%2FPortf%C3%B3lio-blue?style=for-the-badge" alt="Licença">
-</p>
-
-<p align="center">
   <b>Ferramenta 100% Excel</b> para organizar, validar e reunir num só lugar as informações que você vai precisar na hora de declarar o Imposto de Renda.
 </p>
 
