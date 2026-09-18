@@ -131,13 +131,3 @@ Os dados presentes no arquivo de exemplo (nome, CPF, valores) são **fictícios*
 > 🔒 **Nunca suba para um repositório público uma planilha preenchida com seus dados reais** (CPF, endereço, valores bancários). Substitua sempre por um modelo em branco ou por dados fictícios antes de compartilhar.
 
 ---
-
-## 👤 Autor
-
-Projeto desenvolvido como exercício prático de organização de dados no Excel.
-
-<p>
-  <!-- Troque pelos seus links -->
-  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-seu--usuario-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
