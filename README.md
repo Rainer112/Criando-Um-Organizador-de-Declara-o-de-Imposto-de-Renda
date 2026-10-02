@@ -1,6 +1,5 @@
 <h1 align="center">📊 Agregador de Dados para Declaração de Imposto de Renda</h1>
 
-<p align="center">
 <b>Ferramenta 100% Excel</b> para organizar, validar e reunir num só lugar as informações que você vai precisar na hora de declarar o Imposto de Renda.
 </p>
 
