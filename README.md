@@ -1,7 +1,7 @@
 <h1 align="center">📊 Agregador de Dados para Declaração de Imposto de Renda</h1>
 
 <p align="center">
-  <b>Ferramenta 100% Excel</b> para organizar, validar e reunir num só lugar as informações que você vai precisar na hora de declarar o Imposto de Renda.
+<b>Ferramenta 100% Excel</b> para organizar, validar e reunir num só lugar as informações que você vai precisar na hora de declarar o Imposto de Renda.
 </p>
 
 > 💡 O objetivo **não** é substituir o programa da Receita Federal — é ser o seu **painel de pré-organização**: você centraliza dados do titular, informes bancários e entradas mensais, com listas suspensas e validação para evitar erro de digitação e retrabalho.
